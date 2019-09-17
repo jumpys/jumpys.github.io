@@ -7,7 +7,7 @@ tabs:
   - { name: "Categories", path: tabs, url: categories }
   - { name: "Tags", path: tabs, url: tags }
   - { name: "Archives", path: tabs, url: archives }
-  - { name: "About", path: tabs, url: about }
+  - { name: "关于", path: tabs, url: about }
 
 panel:
   lastmod: "Recent Update"
